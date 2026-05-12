@@ -144,3 +144,7 @@ Para reproducir el análisis realizado en este proyecto:
    - edad,
    - nivel de uso.
 6. Revisar los insights ejecutivos y recomendaciones de negocio al final del notebook.
+
+
+# Repositorio del proyecto:
+https://github.com/jacqueline-lopez-data/sprint7-final-project  
